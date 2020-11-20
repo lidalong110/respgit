@@ -5,4 +5,8 @@ aaddddd
 
 在本地库游了一圈
 my name lihongwei
+<<<<<<< HEAD
 2+2=4
+=======
+1+1 =2；
+>>>>>>> 6d76555e2fca64213be5afeda99fb977c144a16a
